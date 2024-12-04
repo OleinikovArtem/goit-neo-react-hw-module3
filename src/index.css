@@ -1,0 +1,22 @@
+.controller {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 600px;
+  padding: 24px;
+}
+
+.border {
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
